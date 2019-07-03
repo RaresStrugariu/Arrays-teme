@@ -1,0 +1,11 @@
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\bin\Debug\netcoreapp2.1\Array Teme.deps.json
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\bin\Debug\netcoreapp2.1\Array Teme.runtimeconfig.json
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\bin\Debug\netcoreapp2.1\Array Teme.runtimeconfig.dev.json
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\bin\Debug\netcoreapp2.1\Array Teme.dll
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\bin\Debug\netcoreapp2.1\Array Teme.pdb
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\obj\Debug\netcoreapp2.1\Array Teme.csprojAssemblyReference.cache
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\obj\Debug\netcoreapp2.1\Array Teme.csproj.CoreCompileInputs.cache
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\obj\Debug\netcoreapp2.1\Array Teme.AssemblyInfoInputs.cache
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\obj\Debug\netcoreapp2.1\Array Teme.AssemblyInfo.cs
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\obj\Debug\netcoreapp2.1\Array Teme.dll
+D:\teme scoala informala C# remake\Array\Array Teme\Array Teme\obj\Debug\netcoreapp2.1\Array Teme.pdb
